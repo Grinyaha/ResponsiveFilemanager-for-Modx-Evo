@@ -1,0 +1,1 @@
+# ResponsiveFilemanager-for-Modx-Evo
